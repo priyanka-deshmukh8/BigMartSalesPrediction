@@ -2,11 +2,7 @@
 Primary aim of this project is to build machine learning model that give the should able to predict the sales of the
 different stores of Big Mart according to the provided dataset.
 
-[You can reach the application here]
-<br>
-https://stores-sales-api.herokuapp.com/
-<br>
-https://stores-sale-prediction.herokuapp.com
+
 
 
 # Problem statement
@@ -39,12 +35,6 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 # Snippets of Project
 
-
-#### 1) API Home Page:
-![alt-text](https://i.imgur.com/7OqT4bJ.png)
-
-#### 2) WebApp Home Page:
-![alt-text](https://i.imgur.com/Y3I5ziv.png)
 
 
 # How to run in Your local System
