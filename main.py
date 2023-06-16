@@ -25,7 +25,7 @@ def index():
     "URL of API Call":"https://stores-sales-api.herokuapp.com/predict",
     "Method":"POST",
     "To Test API please visit":"https://stores-sale-prediction.herokuapp.com",
-     "© Copyright":"2021 Ganesh Thorat" }
+     "© Copyright":"2023 Priyanka Deshmukh" }
 
 @app.post("/predict")
 async def predict_sales(input_data:Bigmart):
